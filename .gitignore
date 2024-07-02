@@ -1,4 +1,7 @@
 testenv/
 enroll/
 probe/
+enroll_iris/
+probe_iris/
+results/
 *.txt
